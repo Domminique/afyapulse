@@ -36,3 +36,4 @@ PUT _ingest/pipeline/disease-triage-pipeline
   ]
 }
 We leverage Elastic Ingest Pipelines to decouple our application logic from our data enrichment. Our Python script simply sends raw data, and the Elastic 'Brain' calculates the risk level as the data lands, ensuring zero-latency triage.
+why how where now 
