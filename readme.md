@@ -5,7 +5,7 @@
 To get this project running locally:
 
 1. **Clone the repo:**
-   `git clone https://github.com/your-username/AfyaPulse.git`
+   `git clone https://github.com/domminique/AfyaPulse.git`
    `cd AfyaPulse`
 
 2. **Set up Virtual Environment:**
